@@ -1,7 +1,7 @@
 Algoritmo PromedioNotas
 	Definir NumeroEstudiantes,i,j Como Entero
 	definir Nota, Acum,Promedio como real
-	Mostrar "Ingrese número de estudiantes"
+	Mostrar "Ingrese número de personas"
 	Leer NumeroEstudiantes
 	para i=1 hasta NumeroEstudiantes con paso 1 Hacer
 		Acum=0
